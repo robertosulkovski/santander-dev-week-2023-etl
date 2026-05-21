@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.x-green)
+![OpenAI](https://img.shields.io/badge/OpenAI-API-black)
+
 # Santander Dev Week 2023 ETL
 
 ETL pipeline developed during Santander Dev Week using Python, OpenAI API and a custom Spring Boot banking API for personalized banking campaign generation.

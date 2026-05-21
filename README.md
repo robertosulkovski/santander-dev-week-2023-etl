@@ -8,6 +8,12 @@ ETL pipeline developed during Santander Dev Week using Python, OpenAI API and a 
 
 ---
 
+## Architecture
+
+CSV → Spring Boot API → Google Colab → OpenAI API → REST Update → CSV Output
+
+---
+
 ## Technologies
 
 - Python
@@ -123,5 +129,5 @@ Roberto Sulkovski
 
 GitHub:
 
-- :contentReference[oaicite:0]{index=0}
-- :contentReference[oaicite:1]{index=1}
+https://github.com/robertosulkovski/bank-api-springboot
+https://github.com/robertosulkovski/santander-dev-week-2023-etl

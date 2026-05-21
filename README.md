@@ -129,5 +129,8 @@ Roberto Sulkovski
 
 GitHub:
 
-https://github.com/robertosulkovski/bank-api-springboot
-https://github.com/robertosulkovski/santander-dev-week-2023-etl
+- ETL Project:
+  https://github.com/robertosulkovski/santander-dev-week-2023-etl
+
+- Spring Boot API:
+  https://github.com/robertosulkovski/bank-api-springboot
